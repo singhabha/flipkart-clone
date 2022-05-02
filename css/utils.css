@@ -1,0 +1,19 @@
+.flex-all-center{
+    display: flex;
+justify-content: center;
+align-items: center;
+}
+.btn{
+    padding: 5px 10px;
+    border-radius: 4px;
+    background: var(--main-bg-color);
+    color: 2 px solid blanchedalmond;
+    cursor: pointer;
+
+}
+.my-1{
+    margin: 2px 0;
+}
+.text-center{
+    text-align: center;
+}
